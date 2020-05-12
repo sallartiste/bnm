@@ -19,7 +19,6 @@
 				<h3><li><a href="collection_hippocrate_neurologie.php"><mark>COLLECTION HIPPOCRATE NEUROLOGIE</mark></a></li></h3>
 			</ul>
 			<ol>
-				<h4><li><a href="documents/ouvrages/neuropsychiatrie/neurologie/abrege_acupuncture_pratique.pdf">Abrégé Acupuncture pratique (12,2 Mo)</a></li></h4>
 				<h4><li><a href="documents/ouvrages/neuropsychiatrie/neurologie/abrege_cephalees_en_30_lecons.pdf">Abrégé Céphalées en 30 lecons (7,78 Mo)</a></li></h4>
 				<h4><li><a href="documents/ouvrages/neuropsychiatrie/neurologie/abrege_neuro.pdf">Abrégé Neurologie 1 (10,4 Mo)</a></li></h4>
 				<h4><li><a href="documents/ouvrages/neuropsychiatrie/neurologie/abrege_neurologie.pdf">Abrégé Neurologie 2 (19 Mo)</a></li></h4>
