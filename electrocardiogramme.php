@@ -1,14 +1,6 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8" />
-		<link rel="stylesheet" href="style_1.css" />
-		<title>Electrocardiogramme</title>
-	</head>
-	<body>
-		<header>
-		<?php include("menus.php"); ?>
-		</header>
+	<?php include("inc/header.php"); ?>
 		<div id="titre_principal">
 			<h2>ELECTROCARDIOGRAMME</h2>
 		</div>
