@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
 	<?php include("inc/header.php"); ?>
-		<?php include("menus.php"); ?>
-		</header>
 		<div id="titre_principal">
 			<h2>CAS CLINIQUES RHUMATOLOGIE</h2>
 		</div>
