@@ -6,10 +6,10 @@
 		</div>
 		<div class="content">
 		<ol>
-			<h4><li><a href="documents/english_books/anatomy/atlas_of_anatomy.pdf">Atlas of anatomy (248 MB)</a></li></h4>
-			<h4><li><a href="documents/english_books/anatomy/atlas_of_surgical_anatomy_netter.pdf">Atlas of surgical anatomy Netter (25,3 MB)</a></li></h4>
-			<h4><li><a href="documents/english_books/anatomy/basic_surgical_techniques.pdf">Basic Surgical Techniques (48,5 MB)</a></li></h4>
-			<h4><li><a href="documents/english_books/anatomy/gray_s_anatomy.pdf">Gray's Anatomy (187 MB) بالعربية </a></li></h4>
+			<a href="https://uptobox.com/k0rhtuo44drx" target=_blank>atlas_of_anatomy.pdf - 260.4 Mo</a><br/>
+			<a href="https://uptobox.com/35c5jnw6peg5" target=_blank>atlas_of_surgical_anatomy_netter.pdf - 26.6 Mo</a><br/>
+			<a href="https://uptobox.com/55q0y2jhpgdd" target=_blank>basic_surgical_techniques.pdf - 50.9 Mo</a><br/>
+			<a href="https://uptobox.com/fk2r0lchu5kq" target=_blank>gray_s_anatomy.pdf - 196.6 Mo</a><br/>
 		</ol>
 		</div>
 		<?php include("copyright.php"); ?>
